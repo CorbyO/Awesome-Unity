@@ -3,7 +3,7 @@ Unity assets for me.
 
 # Contents
 - [Editor](#Editor)
--- [Inspector](#Inspector)
+  - [Inspector](#Inspector)
 
 # Editor
 ## Inspector
