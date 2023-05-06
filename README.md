@@ -11,3 +11,6 @@ Unity assets for me.
 - [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - inspector를 커스텀 할 수 있는 추가 attribute들.
 # Debug
 - [ParrelSync](https://github.com/VeriorPies/ParrelSync) - 멀티플레이 테스팅 할 때 사용, 원본 프로젝트 폴더의 복사본에 대한 심볼릭 링크로 동기화 하는 방식.
+
+# UI
+- [Unity-UI-Rounded-Corners](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners.git) - 테두리에 Round 값을 넣을 수 있게 하는.
